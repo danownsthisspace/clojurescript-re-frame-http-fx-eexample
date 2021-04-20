@@ -1,0 +1,8 @@
+.horizontal {
+    display: flex;
+    justify-items: center;
+}
+
+.pr-15 {
+    padding-right: 15px;
+}
